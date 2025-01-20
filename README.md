@@ -30,7 +30,7 @@ $ mvn clean package
 ``` 
 Run it and enjoy!
 ``` 
-java -cp target/cat-and-bear-cafe-1.0-SNAPSHOT.jar dev.jeslynlu.catandbearcafe.CafeGame
+$ java -cp target/cat-and-bear-cafe-1.0-SNAPSHOT.jar dev.jeslynlu.catandbearcafe.CafeGame
 ``` 
 ### Gameplay Example:
 [![Cat and Bear Cafe](https://img.youtube.com/vi/EQ1OAXI9--8/0.jpg)](https://www.youtube.com/shorts/EQ1OAXI9--8)
