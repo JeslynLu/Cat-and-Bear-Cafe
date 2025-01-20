@@ -1,4 +1,7 @@
-![Game Intro](src/main/resources/images/gameIntro.png)
+<p align="center">
+  <img src="src/main/resources/images/gameIntro.png" alt="Game Intro" style="width: 45%; margin-right: 10px;">
+  <img src="src/main/resources/images/gamePlay.png" alt="Game Play" style="width: 45%;">
+</p>
 
 ## 🍽️🧑‍🍳 Cat and Bear Cafe 😺🐻
 A time-management cafe game where you, the cat waiter, must keep customers happy and fed! 
@@ -19,7 +22,7 @@ Make sure you have Maven and Java installed. Clone the repository:
 ``` 
 Navigate to the project directory:
 ``` 
-$ cd cat-and-bear-cafe
+$ cd Cat-and-Bear-Cafe
 ```
 Build the project with Maven:
 ``` 
