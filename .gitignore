@@ -1,0 +1,14 @@
+*.class
+
+*.log
+
+/target/
+
+desktop.ini
+.DS_Store
+
+*.iml
+.idea/
+*.classpath
+.project
+
